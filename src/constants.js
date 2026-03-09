@@ -175,8 +175,8 @@ export const SkillsInfo = [
         "This is a personal portfolio website built with React and Tailwind CSS. It showcases my projects, technical skills, and contact details with a clean, responsive, and modern designA powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions.",
       image: per_por,
       tags: ["HTML", " TailwindCSS", "JavaScript", "React JS"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      github: "https://github.com/JyotiGupta3011/Portfolio",
+      webapp: "https://portfolio-mu-lac-5iay8vh2gf.vercel.app/",
     },
     {
       id: 1,
