@@ -59,7 +59,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Jyoti Gupta . All rights reserved.
+          © 2026 Jyoti Gupta . All rights reserved.
         </p>
       </div>
     </footer>
